@@ -1,0 +1,13 @@
+# working media, sessions and drafts stay out of the entry
+*.mp4
+*.mkv
+*.webm
+*.mov
+*.jpg
+*.png
+*.vtt
+subs/
+out/
+node_modules/
+*.tar.gz
+*.txt
